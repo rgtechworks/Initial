@@ -1,1 +1,1 @@
-This repository is to get basic understnding of GIT.
+This repository is to get basic understanding of GIT.
